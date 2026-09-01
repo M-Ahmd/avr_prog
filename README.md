@@ -1,1 +1,1 @@
-# avr_prog
+# repo for learn avr controllers
