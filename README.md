@@ -1,1 +1,1 @@
-# repo for learn avr controllers
+# repo for learn avr controllers like ardiuno
